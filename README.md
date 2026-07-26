@@ -9,7 +9,7 @@ Pesticide:
 ![](pesticide_live.svg)
 
 Calligraphy:
-![](calligraphy_live.svg)
+![](calligraphy_live-2.svg)
 
 ### Product
 Seed:
