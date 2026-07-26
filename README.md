@@ -5,6 +5,9 @@ Portfolio for June to August
 Durian:
 ![](durian_live.svg)
 
+Pesticide:
+![](pesticide_live.svg)
+
 ### Product
 Seed:
 ![](seed_product.svg)
