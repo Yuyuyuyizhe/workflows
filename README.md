@@ -8,6 +8,9 @@ Durian:
 Pesticide:
 ![](pesticide_live.svg)
 
+Calligraphy:
+![](calligraphy_live.svg)
+
 ### Product
 Seed:
 ![](seed_product.svg)
