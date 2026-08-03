@@ -1,26 +1,34 @@
-Portfolio for June to August
+# Portfolio: June – August
 
-## Live stream and product inspection
-### Live
-Durian:
-![](durian_live.svg)
+---
 
-Pesticide:
-![](pesticide_live.svg)
+## Live Streaming & Product Inspection
 
-Calligraphy:
-![](calligraphy_live-2.svg)
+### Live Stream Highlights
 
-Beaf and Egg:
-![](beaf_and_egg_live.svg)
+**Durian**
+![Durian Live Stream](durian_live.svg)
 
-### Product
-Seed:
-![](seed_product.svg)
+**Pesticide**
+![Pesticide Live Stream](pesticide_live.svg)
 
+**Calligraphy**
+![Calligraphy Live Stream](calligraphy_live-2.svg)
+
+**Beef & Egg**
+![Beef and Egg Live Stream](beaf_and_egg_live.svg)
+
+### Product Showcase
+
+**Seeds**
+![Seed Product](seed_product.svg)
+
+---
 
 ## Public Opinion Perception
 
-### Filtering
+### Content Filtering
+![Public Opinion Filtering](public_filter.svg)
 
-![](public_filter.svg)
+### Ranking System
+![Public Opinion Ranking](public_rank.svg)
