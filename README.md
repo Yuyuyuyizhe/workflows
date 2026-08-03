@@ -17,3 +17,10 @@ Beaf and Egg:
 ### Product
 Seed:
 ![](seed_product.svg)
+
+
+## Public Opinion Perception
+
+### Filtering
+
+![](public_filter.svg)
